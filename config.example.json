@@ -1,0 +1,17 @@
+{
+  "chrome_debug_port": 9222,
+  "check_interval_seconds": 60,
+  "closing_soon_threshold_seconds": 300,
+  "items": [
+    {
+      "label": "Optional friendly name",
+      "inventory_number": "61233133",
+      "target_price": 50.00
+    },
+    {
+      "label": "Another item",
+      "inventory_number": "79342602",
+      "target_price": 120.00
+    }
+  ]
+}

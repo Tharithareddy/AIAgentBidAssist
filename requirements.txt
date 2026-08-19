@@ -1,0 +1,2 @@
+playwright==1.47.0
+win10toast-click==0.1.2
